@@ -17,6 +17,7 @@
        { "ext": "s", "lang": "asm"},
        { "ext": "sh", "lang": "sh"},
        { "ext": "ts", "lang": "typescript"},
-       { "ext": "tsx", "lang": "typescript"}
+       { "ext": "tsx", "lang": "typescript"},
+       { "ext": "md", "lang": "markdown"}
     ]
 }
