@@ -17,9 +17,11 @@
     "dependencies": {
         "discord-rpc": "^3.1.0"
     },
-    "categories": ["Other"],
+    "categories": [
+        "Other"
+    ],
     "contributes": {
-        "commands":[
+        "commands": [
             {
                 "command": "discord.enable",
                 "title": "Enable exstension in workspace (updates workspace settings)",
@@ -61,7 +63,7 @@
                 "category": "Discord Rich Presence for VSCode by Piotro"
             }
         ],
-        "configuration":[
+        "configuration": [
             {
                 "title": "Discord Rich Presence for VSCode by Piotro",
                 "properties": {
@@ -111,5 +113,8 @@
     "bugs": {
         "url": "https://github.com/piotro888/vscode-discord-rich-presence/issues"
     },
-    "icon": "images/logo.png"
+    "icon": "images/logo.png",
+    "devDependencies": {
+        "typescript": "^5.3.3"
+    }
 }
