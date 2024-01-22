@@ -15,6 +15,8 @@
        { "ext": "xml", "lang": "xml"},
        { "ext": "txt", "lang": "txt"},
        { "ext": "s", "lang": "asm"},
-       { "ext": "sh", "lang": "sh"}
+       { "ext": "sh", "lang": "sh"},
+       { "ext": "ts", "lang": "typescript"},
+       { "ext": "tsx", "lang": "typescript"}
     ]
 }
